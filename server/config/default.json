@@ -1,0 +1,9 @@
+{
+  "PORT": 4000,
+  "dbConnection": "mongodb://localhost:27017/FYP",
+  "JWT_ACCOUNT_ACTIVATION": "accountactivationlink",
+  "JWT_SECRET": "jwtsecretkey",
+  "EMAIL": "abdul82303@gmail.com",
+  "PASSWORD": "03448904093@webdeveloper.com",
+  "CLIENT_URL": "http://localhost:3000"
+}
